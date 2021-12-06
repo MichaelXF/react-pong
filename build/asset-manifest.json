@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pong/build/static/css/main.b84ad656.chunk.css",
+    "main.js": "/react-pong/build/static/js/main.2c9a14fc.chunk.js",
+    "main.js.map": "/react-pong/build/static/js/main.2c9a14fc.chunk.js.map",
+    "runtime-main.js": "/react-pong/build/static/js/runtime-main.228d700d.js",
+    "runtime-main.js.map": "/react-pong/build/static/js/runtime-main.228d700d.js.map",
+    "static/js/2.5e00f32b.chunk.js": "/react-pong/build/static/js/2.5e00f32b.chunk.js",
+    "static/js/2.5e00f32b.chunk.js.map": "/react-pong/build/static/js/2.5e00f32b.chunk.js.map",
+    "static/js/3.f91bca83.chunk.js": "/react-pong/build/static/js/3.f91bca83.chunk.js",
+    "static/js/3.f91bca83.chunk.js.map": "/react-pong/build/static/js/3.f91bca83.chunk.js.map",
+    "index.html": "/react-pong/build/index.html",
+    "static/css/main.b84ad656.chunk.css.map": "/react-pong/build/static/css/main.b84ad656.chunk.css.map",
+    "static/js/2.5e00f32b.chunk.js.LICENSE.txt": "/react-pong/build/static/js/2.5e00f32b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.228d700d.js",
+    "static/js/2.5e00f32b.chunk.js",
+    "static/css/main.b84ad656.chunk.css",
+    "static/js/main.2c9a14fc.chunk.js"
+  ]
+}

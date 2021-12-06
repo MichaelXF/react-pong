@@ -1,5 +1,7 @@
 # [React Pong](https://michaelxf.github.io/react-pong/build/)
 
+![React Pong](https://raw.githubusercontent.com/MichaelXF/react-pong/master/images/react-pong-2.png)
+
 A simple pong-game written using the React library and HTML5 Canvas. The game supports two gamemodes:
 
 1. Player vs. CPU
@@ -8,6 +10,16 @@ A simple pong-game written using the React library and HTML5 Canvas. The game su
 Player 1 always uses the `[W]` and `[S]` keys to move their paddle
 
 Player 2 always uses the `[Up]` and `[Down]` arrow keys to move their paddle.
+
+**[Try the website here.](https://michaelxf.github.io/react-pong/build/)**
+
+`https://michaelxf.github.io/react-pong/build/`
+
+![React Pong](https://raw.githubusercontent.com/MichaelXF/react-pong/master/images/react-pong-1.png)
+
+![React Pong](https://raw.githubusercontent.com/MichaelXF/react-pong/master/images/react-pong-3.png)
+
+![React Pong](https://raw.githubusercontent.com/MichaelXF/react-pong/master/images/react-pong.gif)
 
 # License
 
