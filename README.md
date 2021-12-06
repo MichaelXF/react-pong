@@ -7,7 +7,7 @@ A simple pong-game written using the React library and HTML5 Canvas. The game su
 1. Player vs. CPU
 2. Player vs. Player
 
-Player 1 always uses the `[W]` and `[S]` keys to move their paddle
+Player 1 always uses the `[W]` and `[S]` keys to move their paddle.
 
 Player 2 always uses the `[Up]` and `[Down]` arrow keys to move their paddle.
 
@@ -23,7 +23,7 @@ Player 2 always uses the `[Up]` and `[Down]` arrow keys to move their paddle.
 
 # License
 
-MIT License
+MIT License.
 
 # Getting Started with Create React App
 
