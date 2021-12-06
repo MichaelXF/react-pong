@@ -1,3 +1,18 @@
+# [React Pong](https://michaelxf.github.io/react-pong/build/)
+
+A simple pong-game written using the React library and HTML5 Canvas. The game supports two gamemodes:
+
+1. Player vs. CPU
+2. Player vs. Player
+
+Player 1 always uses the `[W]` and `[S]` keys to move their paddle
+
+Player 2 always uses the `[Up]` and `[Down]` arrow keys to move their paddle.
+
+# License
+
+MIT License
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
